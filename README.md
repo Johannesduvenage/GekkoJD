@@ -4,6 +4,8 @@ Copy scrypt and paste it in you terminal.........
 1 nvm.sh          
 2 gekko.sh
 
+
+Gekko & nvm.sh
 or if you don't like it plain.............try the  https://github.com/RJPGriffin/gekko 
 maybe not......
 
